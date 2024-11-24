@@ -13,9 +13,9 @@
 </picture>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Kyros-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kyros-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
 ## ⭐Fun Facts
@@ -24,7 +24,8 @@
 - I love reading Books 📖
 - I love Volleyball 🏐🧡🖤
 - I love Anime 👒🏴‍☠️🍈
-- I have the mind of a young man but the spine of an old man 😂
+- Brazilian with Portuguese citizenship
+- Mind of a young man, spine of an old man 😂
 
 ##
 
