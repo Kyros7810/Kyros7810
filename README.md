@@ -1,4 +1,4 @@
-## Heey, welcome!
+## ✨Heey, welcome!✨
 
 <picture>
   <source
@@ -12,11 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kyros7810&show_icons=true" />
 </picture>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Kyros-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kyros-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</div>
+<img align="center" alt="HTML Badge" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img align="center" alt="CSS Badge" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img align="center" alt="JavaScript Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 ## ⭐Fun Facts
 
@@ -26,6 +22,7 @@
 - I love Anime 👒🏴‍☠️🍈
 - Brazilian with Portuguese citizenship
 - Mind of a young man, spine of an old man 😂
+
 
 ##
 
