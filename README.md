@@ -29,6 +29,6 @@
 <div> 
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-mesquita-6496262b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:gabrielmesquita7810@gmail.com"><img src="https://img.shields.io/badge/-gabrielmesquita7810@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:gabi.mesquita78@gmail.com"><img src="https://img.shields.io/badge/-gabi.mesquita78.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.alura.com.br/user/gabipolitti05" target="_blank"><img src="https://img.shields.io/badge/-Alura-%23191970?style=for-the-badge&logo=alura&logoColor=white" alt="Perfil na Alura" /></a>
 </div>
